@@ -1,0 +1,15 @@
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.csprojAssemblyReference.cache
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.AssemblyInfoInputs.cache
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.AssemblyInfo.cs
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.csproj.CoreCompileInputs.cache
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/TriangleTracker.deps.json
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/TriangleTracker.dll
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/ref/TriangleTracker.dll
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/TriangleTracker.pdb
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.dll
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/ref/TriangleTracker.dll
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.pdb
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/TriangleTracker.runtimeconfig.json
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/TriangleTracker.runtimeconfig.dev.json
+/Users/alexbertotto/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.genruntimeconfig.cache
